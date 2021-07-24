@@ -1,0 +1,1 @@
+{"version":3,"file":"company.mock.js","sourceRoot":"","sources":["../../src/company/company.mock.ts"],"names":[],"mappings":";;;AAAa,QAAA,OAAO,GAAC;IAEjB;QACI,EAAE,EAAE,GAAG;QACP,OAAO,EAAE,OAAO;QAChB,OAAO,EAAE,MAAM;KAClB;IACD;QACI,EAAE,EAAE,GAAG;QACP,OAAO,EAAE,KAAK;QACd,OAAO,EAAE,KAAK;KACjB;IACD;QACI,EAAE,EAAE,GAAG;QACP,OAAO,EAAE,WAAW;QACpB,OAAO,EAAE,QAAQ;KACpB;CACJ,CAAC"}
